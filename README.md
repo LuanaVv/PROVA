@@ -4,8 +4,8 @@
 // 1. Crie uma função chamada registrarPedido que receba cliente, prato, mesa e idade
 function registrarPedido (cliente, prato, mesa, idade) {
   return {
-    cliente: Bruno,
-    prato: Lasanha,
+    cliente: "Bruno",
+    prato: "Lasanha",
     mesa: 2,
     idade: 17
   };
