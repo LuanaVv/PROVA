@@ -1,5 +1,12 @@
 # PROVA
+ Questão 1- 
+function cumprimentar(nome, idade){
+  console.log(`Olá, ${nome}, sua idade é ${idade}`)
+}
 
+cumprimentar('Ana', 20)
+cumprimentar('Pedro', 16)
+cumprimentar('João', 17)
 
 
 
