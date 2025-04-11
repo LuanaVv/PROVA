@@ -1,6 +1,9 @@
 # PROVA
+questão 1-
 
 
+
+questão 3-
 // 1. Crie uma função chamada registrarPedido que receba cliente, prato, mesa e idade
 function registrarPedido (cliente, prato, mesa, idade) {
   return {
